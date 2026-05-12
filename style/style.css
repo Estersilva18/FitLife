@@ -108,7 +108,7 @@ section h2{
 
 }
 
-.beneficio{
+.beneficio{ /*Estrutura*/
     display: flex;
     gap: 25px;
     justify-content: center;
