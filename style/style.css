@@ -47,3 +47,8 @@ body {
     transition: 0.3s;
 }
 
+.menu a:hover{
+    color: #00ff88;
+}
+
+
